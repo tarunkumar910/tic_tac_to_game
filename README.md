@@ -34,7 +34,7 @@ The goal of this project is to demonstrate core programming concepts such as:
 ## Features
 
 <h1 align="left">
-  <img src="image/image.png" alt="Password_Strength_Checker" width="700px"></a>
+  <img src="image/Tic_tac_to.png" alt="Password_Strength_Checker" width="700px"></a>
   <br>
 </h1>
 
